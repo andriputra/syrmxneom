@@ -1,0 +1,12 @@
+.elementor-35 .elementor-element.elementor-element-ad0fac0 > .elementor-container{max-width:1250px;}.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-menu-toggle{margin:0 auto;}.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-size:22px;font-weight:500;text-transform:uppercase;}.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-nav-menu--main .elementor-item:focus{color:#000000;fill:#000000;}.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#000000;}.elementor-35 .elementor-element.elementor-element-b95ad20 .elementor-nav-menu--main .elementor-item{padding-left:31px;padding-right:31px;padding-top:16px;padding-bottom:16px;}/* Start custom CSS for nav-menu, class: .elementor-element-b95ad20 */.nav-menu li:last-child{
+    background: #3b3838;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.nav-menu li:last-child a{
+    color: #ffffff !important;
+    font-weight: 600 !important;
+}/* End custom CSS */
